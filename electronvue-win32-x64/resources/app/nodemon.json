@@ -1,0 +1,9 @@
+{
+    "execMap": {
+      "js": "yarn serve-be",
+      "vue": "yarn serve-fe"
+    },
+    "watch": ["server.js", "src"],
+    "ext": "js vue"
+  }
+  
